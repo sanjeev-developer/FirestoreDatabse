@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "271752546040",
+    "firebase_url": "https://firestore-af170.firebaseio.com",
+    "project_id": "firestore-af170",
+    "storage_bucket": "firestore-af170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271752546040:android:0136f58286f425d5561d0d",
+        "android_client_info": {
+          "package_name": "com.firestoredatabse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271752546040-3o5drga4q43t9m4fho2bkqt76ssd3gh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcc97xxyKvA4RC1tY76M-flGvnxE3-ncA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271752546040-3o5drga4q43t9m4fho2bkqt76ssd3gh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
